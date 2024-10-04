@@ -9,6 +9,7 @@ Author: Once Day
 - [os-lectures: os lectures 2022 spring (gitee.com)](https://gitee.com/learning-os/os-lectures#/learning-os/os-lectures/blob/master/os-course-outline.md)
 - [Rust 程序设计语言 - Rust 程序设计语言 简体中文版 (kaisery.github.io)](https://kaisery.github.io/trpl-zh-cn/title-page.html)
 - [简介 - Rust 参考手册 中文版 (rustwiki.org)](https://rustwiki.org/zh-CN/reference/introduction.html)
+- [2024 秋冬季训练营常见问题 - 问答论坛 - 开源操作系统社区 - 训练营 (opencamp.cn)](https://opencamp.cn/os2edu/bbs/1382)
 
 [TOC]
 
